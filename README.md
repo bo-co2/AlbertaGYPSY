@@ -51,11 +51,11 @@ Each species uses a prefix (`AW_`, `SB_`, `SW_`, `PL_`). At minimum, provide age
 
 ### Optional Utilization Columns
 
-| Column | Description | Default |
+| Column | Description |
 |--------|-------------|---------|
-| `sdob_{sp}` | Stump diameter outside bark (cm) | 15.0 |
-| `stht_{sp}` | Stump height (m) | 0.3 |
-| `tdib_{sp}` | Top diameter inside bark (cm) | 10.0 |
+| `sdob_{sp}` | Stump diameter outside bark (cm) |
+| `stht_{sp}` | Stump height (m) |
+| `tdib_{sp}` | Top diameter inside bark (cm) |
 
 ## Output
 
@@ -67,7 +67,7 @@ The projection generates 251 rows per stand (ages 0–250), with columns for sta
 |-------|----------|
 | App won't start | Ensure you're on 64-bit Windows. Extract the full zip — don't run from inside the archive. |
 | Validation passes but projection fails | Check that species data values are within valid ranges. |
-| "DLL not found" error | Make sure the `_internal` folder is in the same directory as the `.exe`. |
+| "not found" error | Make sure the `_internal` folder is in the same directory as the `.exe`. |
 
 ## Disclaimer
 This tool is an independent project and is not developed, endorsed, or affiliated with the Government of Alberta (GoA). The GYPSY model referenced herein was originally developed by the GoA, but this application is a third-party implementation.
