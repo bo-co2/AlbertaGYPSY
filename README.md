@@ -30,9 +30,9 @@ Your input CSV must contain the following columns. See `template.csv` for an exa
 | Column | Description |
 |--------|-------------|
 | `stand_id` | Unique identifier for each stand |
-| `stand_age` | Stand age (years) |
-| `spatial` | Spatial flag (YES/NO or 1/0) |
-| `BA_known` | Basal area known flag (YES/NO or 1/0) |
+| `stand_age` | Stand age |
+| `spatial` | Spatial flag |
+| `BA_known` | Basal area flag |
 
 ### Species Columns (for AW, SB, SW, PL)
 
