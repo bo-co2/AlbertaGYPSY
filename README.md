@@ -1,6 +1,6 @@
 # GYPSY Stand Projection Tool
 
-A standalone desktop application for running Alberta GYPSY (Growth and Yield Projection SYstem).
+A standalone desktop application for running Alberta GYPSY (Growth and Yield Projection SYstem). Project hundreds of plots with one click and generating identical results as the goverment version.
 
 ## Download
 
@@ -69,10 +69,15 @@ The projection generates 251 rows per stand (ages 0–250), with columns for sta
 | Validation passes but projection fails | Check that species data values are within valid ranges. |
 | "DLL not found" error | Make sure the `_internal` folder is in the same directory as the `.exe`. |
 
+## Disclaimer
+This tool is an independent project and is not developed, endorsed, or affiliated with the Government of Alberta (GoA). The GYPSY model referenced herein was originally developed by the GoA, but this application is a third-party implementation.
+This software is provided "as-is" without warranty of any kind, express or implied. The developer assumes no responsibility or liability for the accuracy, reliability, or completeness of the results produced by this tool. Users are solely responsible for verifying outputs and determining their suitability for any particular purpose. Use of this tool is entirely at your own risk.
+
 ## License
 
-Copyright © 2026. All rights reserved. This software is provided as-is for use in forestry growth and yield projections. Redistribution of the source code is not permitted.
+Copyright © 2026. All rights reserved. This software is provided as-is for use in forestry growth and yield projections. Redistribution of the application and source code is not permitted.
 
 ## Acknowledgements
 
 This tool is powered by the GYPSY (Growth and Yield Projection SYstem) model developed by the Government of Alberta.
+GoA offical GYPSY website: https://www.alberta.ca/growth-and-yield-projection-system 
