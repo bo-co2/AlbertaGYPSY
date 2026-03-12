@@ -1,0 +1,3 @@
+stand_id,description,stand_age,spatial,BA_known,sdob_aw,stht_aw,tdib_aw,sdob_sb,stht_sb,tdib_sb,sdob_sw,stht_sw,tdib_sw,sdob_pl,stht_pl,tdib_pl,AW_tage,AW_topht,AW_den,AW_ps,AW_BA,AW_SI_t,AW_SI_bh,AW_N0,SB_tage,SB_topht,SB_den,SB_ps,SB_BA,SB_SI_t,SB_SI_bh,SB_N0,SW_tage,SW_topht,SW_den,SW_ps,SW_BA,SW_SI_t,SW_SI_bh,SW_N0,PL_tage,PL_topht,PL_den,PL_ps,PL_BA,PL_SI_t,PL_SI_bh,PL_N0
+101,n,,0,0,15,0.3,11,,,,,,,,,,64,20.6,2150,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+107,n,,0,0,15,0.3,11,,,,,,,,,,,,,,,,,,65,11.4,16200,,,,,,65,11,200,,,,,,65,11.3,50,,,,,

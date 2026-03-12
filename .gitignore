@@ -1,0 +1,27 @@
+# Source code - never commit
+*.py
+*.pyc
+*.pyd
+obf/
+__pycache__/
+venv/
+
+# Build artifacts
+build/
+dist/
+*.spec
+*.manifest
+
+# DLLs
+*.dll
+
+# PyInstaller
+*.exe
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+Thumbs.db
+.DS_Store
